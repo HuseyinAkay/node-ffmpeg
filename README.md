@@ -1,11 +1,10 @@
 node-ffmpeg
 ===========
 
+This is a fork of Damiano Ciarla's public repo [node-ffmpeg](https://github.com/damianociarla/node-ffmpeg)
+
 [FFmpeg](http://ffmpeg.org/) module for [Node](http://nodejs.org/). This library provides a set of functions and utilities to abstract commands-line usage of ffmpeg. To use this library requires that ffmpeg is already installed (including all necessary encoding libraries like libmp3lame or libx264)
 
-You can install this module using [npm](http://github.com/isaacs/npm):
-
-	npm install ffmpeg
 
 ## Usage
 
